@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  tmdb_id: 1
+  overview: MyText
+  poster_path: MyString
+  backdrop_path: MyString
+  runtime: 1
+  release_date: 2026-11-02
+  popularity: 1.5
+  budget: 
+  vote_average: 1.5
+  vote_count: 1
+  homepage: MyString
+
+two:
+  title: MyString
+  tmdb_id: 1
+  overview: MyText
+  poster_path: MyString
+  backdrop_path: MyString
+  runtime: 1
+  release_date: 2026-11-02
+  popularity: 1.5
+  budget: 
+  vote_average: 1.5
+  vote_count: 1
+  homepage: MyString

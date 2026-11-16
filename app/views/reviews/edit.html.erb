@@ -1,0 +1,5 @@
+<%= form_with model: [@movie, @review] do |f| %>
+    <%= f.text_area :content, rows: 2, class: "w-full border border-gray-700 outline-none p-3 mt-2" %>
+
+    <%= f.submit "Update", class: "bg-blue-500 p-2 rounded-xl px-3 text-neutral-700" %>
+<% end %>
